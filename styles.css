@@ -7,6 +7,6 @@
 
 #titulo:hover{
     text-decoration: underline;
-    transition: 2s;
+    transition: 1s;
     color: darkcyan;
 }

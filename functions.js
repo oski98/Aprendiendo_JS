@@ -9,7 +9,7 @@ function changeText(){
         bandera = false;
     }        
     else{
-        parrafo.innerHTML = "Click here once again";
+        parrafo.innerHTML = "Haga click aqui nuevamente";
         bandera = true;
     }
         
